@@ -1,7 +1,5 @@
 HTTP cache proxy
 
-developer: wg72, wc148
-
 This is a web proxy with cache implemented, supporting GET/POST/CONNECT method.
 
 To start,
